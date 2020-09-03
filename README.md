@@ -4,11 +4,17 @@
 </div>
 
 ## :bulb: Idea
+
 The idea is basically consume the Github api for create an simple explorer of usersand repositories
 
-## How to run
+## :tv: Gifs
 
-- :floppy_disk: Download this repository and install all dependencies using  <code>yarn or npm i</code> 
+<b>Dashboard</b>
+<img src="./src/assets/git/Dashboard.gif"  alt="dashboard"/>
+
+## :exclamation: How to run
+
+- :floppy_disk: Download this repository and install all dependencies using <code>yarn or npm i</code>
 - :computer: Start the build inside of root folder using <code>yarn start or npm run start</code>
 - :metal: Finish enjoy the project !!
 
