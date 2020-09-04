@@ -10,7 +10,10 @@ The idea is basically consume the Github api for create an simple explorer of us
 ## :tv: Gifs
 
 <b>Dashboard</b>
-<img src="./src/assets/git/Dashboard.gif"  alt="dashboard"/>
+<img src="./src/assets/git/Dashboard.gif"  alt="Dashboard"/>
+
+<b>Repository</b>
+<img src="./src/assets/git/Repository.gif"  alt="Repository"/>
 
 ## :exclamation: How to run
 
