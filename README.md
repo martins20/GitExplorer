@@ -21,4 +21,4 @@ The idea is basically consume the Github api for create an simple explorer of us
 - :computer: Start the build inside of root folder using <code>yarn start or npm run start</code>
 - :metal: Finish enjoy the project !!
 
-#### Made with :heart: for <a href="https://www.github.com/martins20">Martins20</a> and <a href=""https://github.com/Rocketseat>Rocketseat</a>
+#### Made with :heart: for <a href="https://www.github.com/martins20">Martins20</a> and <a href="https://github.com/Rocketseat">Rocketseat</a>
